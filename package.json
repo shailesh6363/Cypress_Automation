@@ -1,0 +1,25 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh6363/Cypress_Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh6363/Cypress_Automation/issues"
+  },
+  "homepage": "https://github.com/shailesh6363/Cypress_Automation#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
